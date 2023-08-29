@@ -1,6 +1,6 @@
 # SenseCode
 
-SenseCode 是基于商汤 SenseCore 大装置 及 SenseNova 日日新大模型而开发的代码助手。
+SenseCode 是基于商汤 [SenseCore](https://sensecore.cn/) 大装置 及 [SenseNova](https://platform.sensenova.cn/) 日日新大模型而开发的代码助手。
 
 ## 登录账号
 
@@ -112,7 +112,6 @@ SenseCode 的侧边栏助手中，默认为 `流式输出` 模式，即回答将
 ## 清理缓存文件
 
 当您想要主动清理保存会话历史信息的缓存文件时，可以在设置页面中点击 `清理缓存文件` 按钮。
-
 
 ## 免责声明
 
