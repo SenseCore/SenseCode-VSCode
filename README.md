@@ -1,6 +1,6 @@
 # SenseCode
 
-SenseCode 是基于商汤 [SenseCore](https://sensecore.cn/) 大装置 及 [SenseNova](https://platform.sensenova.cn/) 日日新大模型而开发的代码助手。
+SenseCode 是基于商汤 [SenseCore](https://sensecore.cn/) 大装置 及 [SenseNova](https://www.sensenova.cn/) 日日新大模型而开发的代码助手。
 
 ## 登录账号
 
